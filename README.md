@@ -98,8 +98,8 @@ It strengthened both our **technical expertise** and the **ability to communicat
 
 ## 🏆 Special Thanks
 Developed with ❤️ by:
-- **Samuel Lau Hao Yi (@samuerudes)**
+- **Samuel Lau Hao Yi ([@samuerudes](https://github.com/samuerudes))**
 - **Dishalan A/L Logeswaran ()**
-- **Lau Jia Wei (@milkeshyway)**
+- **Lau Jia Wei ([@milkeshyway](https://github.com/mikeshyway))**
 - **Aden Luke Ng ()**
-- **Lew Shin Chun (@LewShinChun)**
+- **Lew Shin Chun ([@LewShinChun](https://github.com/LewShinChun))**
