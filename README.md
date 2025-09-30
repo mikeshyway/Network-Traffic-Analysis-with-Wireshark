@@ -1,6 +1,7 @@
 # 🕵️‍♂️ Network Traffic Analysis with Wireshark
 
-Welcome to the **Network Traffic Analysis with Wireshark** repository! 🎉 This project demonstrates practical **network traffic capture, protocol analysis, and troubleshooting** using Wireshark.  
+Welcome to the **Network Traffic Analysis with Wireshark** repository! 🎉 
+This project demonstrates practical **network traffic capture and protocol analysis** using Wireshark.  
 It highlights our team's ability to **apply theory into practice**, investigate vulnerabilities, and present findings with evidence.  
 
 ### [🎥 Watch This Demostration Video](https://youtu.be/-zOpCeAN_Eo)
