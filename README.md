@@ -100,6 +100,6 @@ It strengthened both our **technical expertise** and the **ability to communicat
 Developed with ❤️ by:
 - **Samuel Lau Hao Yi ([@samuerudes](https://github.com/samuerudes))**
 - **Dishalan A/L Logeswaran ()**
-- **Lau Jia Wei ([@milkeshyway](https://github.com/mikeshyway))**
+- **Lau Jia Wei ([@mikeshyway](https://github.com/mikeshyway))**
 - **Aden Luke Ng ()**
 - **Lew Shin Chun ([@LewShinChun](https://github.com/LewShinChun))**
