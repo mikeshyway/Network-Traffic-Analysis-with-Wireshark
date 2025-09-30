@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Network Traffic Analysis with Wireshark
 
 This project demonstrates practical **network traffic capture, protocol analysis, and troubleshooting** using Wireshark.  
-It highlights my ability to **apply theory into practice**, investigate vulnerabilities, and present findings with evidence.  
+It highlights our team's ability to **apply theory into practice**, investigate vulnerabilities, and present findings with evidence.  
 
 ---
 
@@ -30,6 +30,8 @@ It highlights my ability to **apply theory into practice**, investigate vulnerab
 - Login credentials (username/password) captured in **plaintext**.  
 - Demonstrates why **HTTP → HTTPS** migration is critical.  
 - 📸 *Use image from* **“3.1.2 Packet Analysis & Observations” (p.7–9)**  
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 ---
 
@@ -84,5 +86,14 @@ It highlights my ability to **apply theory into practice**, investigate vulnerab
 ---
 
 ## 📘 Conclusion
-This project proved my ability to **analyze protocols across all layers**, identify **security weaknesses**, and **resolve connectivity issues** with industry-standard tools.  
-It strengthened both my **technical expertise** and my **ability to communicate findings effectively**.  
+This project proved our team's ability to **analyze protocols across all layers**, identify **security weaknesses**, and **resolve connectivity issues** with industry-standard tools.  
+It strengthened both our team's **technical expertise** and our team's **ability to communicate findings effectively**.  
+
+---
+
+---
+
+## 🏆 Special Thanks
+Developed with ❤️ by:
+- **Lau Jia Wei (@milkeshyway)**
+- 
