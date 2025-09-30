@@ -1,7 +1,10 @@
 # 🕵️‍♂️ Network Traffic Analysis with Wireshark
 
-This project demonstrates practical **network traffic capture, protocol analysis, and troubleshooting** using Wireshark.  
+Welcome to the **Network Traffic Analysis with Wireshark** repository! 🎉 This project demonstrates practical **network traffic capture, protocol analysis, and troubleshooting** using Wireshark.  
 It highlights our team's ability to **apply theory into practice**, investigate vulnerabilities, and present findings with evidence.  
+
+### [🎥 Watch This Demostration Video](https://youtu.be/ii6_VkVIilk)
+[![Watch the video](https://img.youtube.com/vi/ii6_VkVIilk/maxresdefault.jpg)](https://youtu.be/-zOpCeAN_Eo)
 
 ---
 
@@ -29,9 +32,7 @@ It highlights our team's ability to **apply theory into practice**, investigate 
 ### 🌐 HTTP – Insecure Data Transmission
 - Login credentials (username/password) captured in **plaintext**.  
 - Demonstrates why **HTTP → HTTPS** migration is critical.  
-- 📸 *Use image from* **“3.1.2 Packet Analysis & Observations” (p.7–9)**  
-![Uploading image.png…]()
-![Uploading image.png…]()
+<!-- - 📸 *Use image from* **“3.1.2 Packet Analysis & Observations” (p.7–9)** -->
 
 ---
 
@@ -39,14 +40,14 @@ It highlights our team's ability to **apply theory into practice**, investigate 
 - Queries and responses observed in **plaintext**.  
 - Vulnerable to **spoofing & eavesdropping**.  
 - Recommended secure alternatives: **DNS over HTTPS (DoH)** / **DNS over TLS (DoT)**.  
-- 📸 *Use image from* **“3.2.2 Packet Analysis & Observations” (p.14–18)**  
+<!-- - 📸 *Use image from* **“3.2.2 Packet Analysis & Observations” (p.14–18)**  -->
 
 ---
 
 ### 📂 FTP – Plaintext Credentials & Files
 - Username, password, and file contents transmitted without encryption.  
 - Proves the need for **SFTP/FTPS** instead of legacy FTP.  
-- 📸 *Use image from* **“3.3.2 Packet Analysis & Observations” (p.21–23)**  
+<!-- - 📸 *Use image from* **“3.3.2 Packet Analysis & Observations” (p.21–23)**  -->
 
 ---
 
@@ -54,25 +55,25 @@ It highlights our team's ability to **apply theory into practice**, investigate 
 - **TCP**: Reliable delivery, retransmission observed during file download.  
 - **UDP**: Used in **Google Meet SRTP calls**, showed encryption + packet loss tolerance.  
 - Demonstrated understanding of **DTLS handshake, SRTP encryption, STUN NAT traversal**.  
-- 📸 *Use images from*  
+<!-- - 📸 *Use images from*  
   - **“4.1.2 Packet Analysis & Observations” (p.27–29)** – TCP 3-way handshake & retransmission  
-  - **“4.2.2 Packet Analysis & Observations” (p.34–39)** – UDP SRTP packets + encrypted payload  
+  - **“4.2.2 Packet Analysis & Observations” (p.34–39)** – UDP SRTP packets + encrypted payload   -->
 
 ---
 
 ### 🖧 ICMP & ARP – Diagnostics & Vulnerabilities
 - **ICMP**: Verified reachability (ping), traced paths (traceroute).  
 - **ARP**: Resolved IP→MAC, but vulnerable to **spoofing attacks**.  
-- 📸 *Use images from*  
+<!-- - 📸 *Use images from*  
   - **“5.1.2 Packet Analysis & Observations” (p.51–53)** – ICMP Echo/Reply & Traceroute  
-  - **“5.2.2 Packet Analysis & Observations” (p.56–57)** – ARP Request/Reply  
+  - **“5.2.2 Packet Analysis & Observations” (p.56–57)** – ARP Request/Reply   -->
 
 ---
 
 ### ❌ DNS Failure Simulation – Critical Dependency
 - Misconfigured DNS → Internet access failed despite working network.  
 - Showed how to **diagnose with nslookup, Wireshark, and revert to DHCP**.  
-- 📸 *Use image from* **“6.1.2 Packet Analysis & Observations” (p.62–63)**  
+<!-- - 📸 *Use image from* **“6.1.2 Packet Analysis & Observations” (p.62–63)** -->
 
 ---
 
@@ -87,9 +88,7 @@ It highlights our team's ability to **apply theory into practice**, investigate 
 
 ## 📘 Conclusion
 This project proved our team's ability to **analyze protocols across all layers**, identify **security weaknesses**, and **resolve connectivity issues** with industry-standard tools.  
-It strengthened both our team's **technical expertise** and our team's **ability to communicate findings effectively**.  
-
----
+It strengthened both our **technical expertise** and the **ability to communicate findings effectively**.  
 
 ---
 
